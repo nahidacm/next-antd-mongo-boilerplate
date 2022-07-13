@@ -10,5 +10,9 @@ https://github.com/nahidacm/mongo-in-docker#start-the-docker-container
 ## Getting Started
 
 ```bash
+yarn install
+```
+
+```bash
 yarn dev
 ```
